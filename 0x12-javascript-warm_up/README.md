@@ -5,8 +5,7 @@ writing various introductory-level JavaScript scripts on Node.js.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
-
+* [tests](./tests): Folder of test files.
 ## Function Prototypes :floppy_disk:
 
 Prototypes for functions written in this project:
